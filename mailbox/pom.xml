@@ -43,6 +43,7 @@
 
         <module>event/event-memory</module>
         <module>event/event-rabbitmq</module>
+        <module>event/event-jpa</module>
         <module>event/json</module>
 
         <module>jpa</module>
